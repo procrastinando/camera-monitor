@@ -23,6 +23,6 @@ pip -r install requirements.txt
 
 ## Telegram setup
 1. Create a bot using BotFather
-2. Save the token and get the receiver ID (https://apt.telegram.org/bot <TOKEN> /getUpdates)
+2. Save the token and get the receiver ID (https://apt.telegram.org/bot"TOKEN"/getUpdates)
 3. Use the token and the receiver ID to edit run_telegram.py
 ```python run_telegram.py```
