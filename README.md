@@ -7,7 +7,6 @@ python3
 pytorch
 opencv
 skpy
-telepot
 ```
 
 ## Setup
